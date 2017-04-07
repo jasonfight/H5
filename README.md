@@ -27,7 +27,7 @@
         * third-second-first 第3-2-1项
    
 ####代码片
-```python
+```py
 
 a=1
 b=2
